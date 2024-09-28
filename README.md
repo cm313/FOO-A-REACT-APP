@@ -1,4 +1,4 @@
-#FOOD ORDER ONLINE (FOO)
+# FOOD ORDER ONLINE (FOO)
 
 ## Online Food Ordering App
 A React-based online food ordering application that utilizes Swiggy's live API to fetch restaurant data and allows users to place food orders online.
